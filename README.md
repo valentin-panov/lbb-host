@@ -1,1 +1,1 @@
-# lbb
+# lbb-host
